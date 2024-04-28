@@ -10,5 +10,6 @@
     - Database design and administration (SQL, NoSQL)
     - API design and implementation
     - IP networks
+- ⌨️ CLI enthusiast - because who needs a mouse anyway? 🐭🚫
 - 💡 Passionate about building scalable and robust systems with a focus on security
 - 📫 Let's connect on LinkedIn: [haapanen-mikko](https://www.linkedin.com/in/haapanen-mikko/)
