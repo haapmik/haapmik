@@ -12,5 +12,5 @@
     - API design and implementation
     - various programming languages (TypeScript, Python, Lua, etc..)
 - ⌨️ CLI enthusiast - because who needs a mouse anyway? 🐭🚫
-- 💡 Passionate about building scalable and robust systems with a focus on security
+- 🔥 Passionate about building scalable and robust systems with a focus on security
 - 📫 Let's connect on LinkedIn: [haapanen-mikko](https://www.linkedin.com/in/haapanen-mikko/)
