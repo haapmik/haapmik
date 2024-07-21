@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Mikko 👋
 
-<!--
-**haapmik/haapmik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 10+ years of experience in the telecommunications field and still counting
+    - Full-Stack Developer (4+ years)
+    - Telecommunications Specialist (6 years)
+- 🚀 Expertise in
+    - IP networks
+    - Kubernetes
+    - Linux server administration
+    - database design and administration (SQL, NoSQL)
+    - API design and implementation
+    - various programming languages (TypeScript, Python, Lua, etc..)
+- ⌨️ CLI enthusiast - because who needs a mouse anyway? 🐭🚫
+- 🔥 Passionate about building scalable and robust systems with a focus on security
+- 📫 Let's connect on LinkedIn: [haapanen-mikko](https://www.linkedin.com/in/haapanen-mikko/)
